@@ -7,9 +7,9 @@
 proxy-providers:
 
   airtcp:
-    url: "http://123.207.61.35:3389/link/8YfaKeaQhtVhWHYs?sub=7"
+    url: "https://7.airtcp.me/link/8YfaKeaQhtVhWHYs?sub=7"
     type: http
-    interval: 86400
+    interval: 0
     health-check:
       enable: true
       url: https://www.gstatic.com/generate_204
